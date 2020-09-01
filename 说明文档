@@ -1,0 +1,6 @@
+所有vue文件放在src>components下
+public     公用的组件
+home   首页需要用到的专有组件以及首页页面
+cake   蛋糕页面需要用到的专有组件以及页面
+snake  小食需要用到的组件以及页面
+myown   我的里面的各个小页面
